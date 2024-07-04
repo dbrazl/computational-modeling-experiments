@@ -1,5 +1,7 @@
 # 🧮 Repositório de Experimentos e Projetos em Cálculo Numérico
 
+![Banner](https://github-dbrazl.s3.amazonaws.com/calculo-numerico/banner.jpg)
+
 Bem-vindo ao meu repositório de Cálculo Numérico! Este espaço foi criado para compartilhar os diversos experimentos, estudos e projetos que venho desenvolvendo.
 
 ## 🎯 Objetivo
