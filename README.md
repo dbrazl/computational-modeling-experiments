@@ -1,47 +1,35 @@
-# 🧮 Repositório de Experimentos e Projetos em Cálculo Numérico
+<h1 align="center">🔢 Experimentos de Modelagem Computacional</h1>
+<br>
 
-![Banner](https://github-dbrazl.s3.amazonaws.com/calculo-numerico/banner.jpg)
+![Banner](https://github-dbrazl.s3.us-east-1.amazonaws.com/computational-modeling-experiments/banner.svg?)
 
-Bem-vindo ao meu repositório de Cálculo Numérico! Este espaço foi criado para compartilhar os diversos experimentos, estudos e projetos que venho desenvolvendo.
+<p align="center">
+    Bem-vindo ao meu repositório de Modelagem Computacional! Este espaço foi criado para compartilhar os diversos experimentos, estudos e projetos que venho desenvolvendo ao longo da minha jornada na área de modelagem computacional.
+</p>
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/autor-@dbrazl-229799?style=flat" alt="Autor: @dbrazl">
+</p>
+<br>
 
 ## 🎯 Objetivo
 
-O objetivo deste repositório é servir como um registro detalhado e acessível dos meus trabalhos em cálculo numérico. Aqui, você encontrará uma variedade de projetos que abrangem desde métodos numéricos básicos até aplicações avançadas, além de estudos de caso e experimentos específicos.
+<p align="justify">
+  Este repositório reúne experimentos e estudos de caso desenvolvidos para aprofundar o conhecimento em modelagem computacional. Cada experimento aplica métodos numéricos e técnicas de análise matemática, como métodos de Runge-Kutta, bisseção e derivação de funções, com o objetivo de explorar soluções computacionais para problemas matemáticos e científicos.
+</p>
 
-## 📁 Conteúdo
+## 🛠 Tecnologias
 
-- **Métodos Numéricos Básicos**: Implementações de métodos fundamentais de cálculo numérico, como interpolação, integração numérica, diferenciação numérica, entre outros.
+<p align="justify">
+  As tecnologias utilizadas nesse projeto foram:
+</p>
 
-- **Solução de Equações Diferenciais**: Projetos utilizando técnicas para resolver equações diferenciais ordinárias (EDOs) e parciais (EDPs).
-
-- **Estudos de Caso**: Análises detalhadas de problemas reais, abordando desde a formulação matemática até a solução numérica.
-
-- **Experimentos**: Testes e comparações de diferentes métodos e técnicas para solucionar problemas específicos, incluindo análise de erro e eficiência computacional.
-
-- **Tutoriais e Notebooks**: Jupyter Notebooks com tutoriais passo a passo para ajudar outros desenvolvedores a replicar e entender os projetos e experimentos realizados.
-
-## 🤝 Como Contribuir
-
-Contribuições são sempre bem-vindas! Se você deseja contribuir com melhorias, novos experimentos ou correções, sinta-se à vontade para abrir um pull request ou entrar em contato.
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=green)
+![Numpy](https://img.shields.io/badge/Numpy-333333?style=flat&logo=numpy&logoColor=lightblue)
 
 ## 📬 Contato
 
-Se você tiver dúvidas ou sugestões, pode me encontrar em daniel.braz@vyox.io ou através do [LinkedIn](https://www.linkedin.com/in/dbrazl/).
-
-
-
-Espero que este repositório seja útil para estudantes, pesquisadores e profissionais interessados em cálculo numérico. Vamos aprender e evoluir juntos!
-
-
-
-## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
-
----
-
-Obrigado por visitar e colaborar!
-
-
-
-**Nota**: Este repositório é continuamente atualizado com novos projetos e experimentos, então não deixe de acompanhar as novidades!
+<p align="justify">
+  Se você tiver dúvidas ou sugestões, pode me encontrar em <a href="mailto:daniel.braz@vyox.io">daniel.braz@vyox.io</a> ou através do <a href="https://www.linkedin.com/in/dbrazl/">LinkedIn</a>.
+</p>
